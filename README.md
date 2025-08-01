@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-image-url" alt="Sarthak Muley Banner" width="100%">
-</p>
+
 
 <!-- Name Header with Styling -->
 <h1 align="center" style="color:#2F4F4F; font-family:Georgia, serif;">
