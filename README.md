@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sarthak Muley
 
-🎓 I'm currently pursuing a **B.Tech in Computer Science and Engineering** at **STR**.
+🎓 I'm currently pursuing a **B.Tech in Computer Science and Engineering** at **DYPDPU**.
 
 ## 🚀 About Me
 
