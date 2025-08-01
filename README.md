@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarthak Muley (@sarthakmuley52) 👋</h1>
 
-🎓 I'm currently pursuing a **B.Tech in Computer Science and Engineering** at **STR**.
+🎓 I'm currently pursuing a **B.Tech in Computer Science and Engineering** at **DYPDPU**.
 
 ---
 
